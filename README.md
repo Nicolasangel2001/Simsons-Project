@@ -7,3 +7,9 @@
 * Hooks: Utilicé useState y useEffect para manejar estados y efectos.
 * BEM: Apliqué la metodología BEM para organizar y escalar el CSS.
 * Responsive Design: Implementé media queries para diseño adaptable en dispositivos móviles y escritorio.
+
+### Lenguajes
+* React JS v.18
+* Javascript Vanilla
+* CSS3
+* Metodologia BEM
