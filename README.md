@@ -22,33 +22,34 @@ Este es un proyecto desarrollado en React que permite explorar información sobr
 - **Git y GitHub**: Control de versiones y despliegue en GitHub Pages.
 
 ## Estructura del Proyecto
-Pagina principal de la App cargando
+
+### Pagina principal de la App cargando
 
 ![image](https://github.com/user-attachments/assets/c7faad51-40dc-4207-9811-483367ca6f9f)
 
-Pagina para la busqueda de personajes
+### Pagina para la busqueda de personajes
 
 ![image](https://github.com/user-attachments/assets/fb5484c0-48d4-43f7-b4a4-90e7f932a86d)
 
-App luego de ingresar nombre de personaje y cantidad de frases
+### App luego de ingresar nombre de personaje y cantidad de frases
 
 ![image](https://github.com/user-attachments/assets/291023f5-f33d-4d37-a4ca-11e71e3cd714)
 
-Personaje no encontrado
+### Personaje no encontrado
 
 ![image](https://github.com/user-attachments/assets/0ba15fe5-c77a-48b6-bcba-8999b0631890)
 
-App Responsive
+## App Responsive
 
-Pag. principal 
+### Pag. principal 
 
 ![image](https://github.com/user-attachments/assets/4395c042-3bf4-45e1-a068-9cf071095edb)
 
-Pag. Busqueda
+### Pag. Busqueda
 
 ![image](https://github.com/user-attachments/assets/04b7ea3f-03f8-4d27-9442-a2310b76bada)
 
-Error
+### Error de busqueda
 
 ![image](https://github.com/user-attachments/assets/c746aa1e-f283-4a49-86ab-e237363098ff)
 
